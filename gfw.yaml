@@ -1,4 +1,7 @@
 payload:
+  - '+.cloudns.org'
+  - '+.us.kg'
+  - '+.jianxian.us.kg'
   - '+.000webhost.com'
   - '+.030buy.com'
   - '+.0rz.tw'
