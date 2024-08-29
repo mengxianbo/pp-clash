@@ -1,6 +1,4 @@
 payload:
-  # 来源: https://github.com/ACL4SSR/ACL4SSR/blob/master/Clash/Providers/BanAD.yaml
-  # Youku & Tudou
   - '+.a-dxk.play.api.3g.youku.com'
   - '+.actives.youku.com'
   - '+.ad.api.3g.tudou.com'
@@ -6307,7 +6305,6 @@ payload:
   - '+.adtx2.cn'
   - '+.e.aduiz.com'
   - '+.m.aduiz.com'
-  - '+.adukwai.com'
   - '+.adulatorycrappyghastly.com'
   - '+.aduld.click'
   - '+.adult-affiliate.link'
@@ -49488,7 +49485,6 @@ payload:
   - '+.download.kuailefun.com'
   - '+.kuaishang.cn'
   - '+.kuaishang.com.cn'
-  - '+.open.e.kuaishou.cn'
   - '+.e.kuaishou.com'
   - '+.wlog.kuaishou.com'
   - '+.kuaishouzt.com'
