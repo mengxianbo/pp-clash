@@ -1,11 +1,6 @@
 payload:
-  - '+.moba.garena.tw'
-  - '+.moba.garena.jp'
-  - '+.moba.garena.vn'
-  - '+.moba.garena.hk'
-  - '+.moba.garena.us'
-  - '+.moba.garena.vn'
-  - '+.moba.garena.kh'
+  - '+.dl.ops.kgtw.garenanow.com
+  - '+.*.garenanow.com'
   - '+.1password.com'
   - '+.adguard.org'
   - '+.bit.no.com'
